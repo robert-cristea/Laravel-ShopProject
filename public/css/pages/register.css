@@ -1,0 +1,12 @@
+#agreecheck-wrapper.active > span > svg {
+    display: block;
+}
+#agreecheck-wrapper.active > span {
+    border-color: #18A75A;
+}
+#agreecheck-wrapper > span > svg {
+    display: none;
+}
+#agreecheck-wrapper > span {
+    border-color: #3B3B3A40;
+}

@@ -1,0 +1,7 @@
+.select-item {
+    cursor: pointer;
+}
+.check-item {
+    width:210px;
+    height:210px;
+}

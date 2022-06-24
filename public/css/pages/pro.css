@@ -1,0 +1,10 @@
+.select-item {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    font-size: 15px;
+}
+.check-item {
+    width:210px;
+    height:210px;
+}

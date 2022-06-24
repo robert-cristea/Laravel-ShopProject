@@ -1,0 +1,16 @@
+
+@font-face {
+    font-family: 'ManRegular';
+    src: url("/fonts/manrope/manrope-regular.ttf");
+}
+@font-face {
+    font-family: 'ManBold';
+    src: url("/fonts/manrope/Manrope-Bold.otf");
+}
+main {
+    font-family: 'ManRegular';
+    color:#020000;
+}
+.fontbold {
+    font-family: 'ManBold';
+}

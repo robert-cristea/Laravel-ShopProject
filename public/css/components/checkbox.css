@@ -1,0 +1,18 @@
+.check-item > label {
+    cursor: pointer;
+}
+.check-item.item-mode > label {
+    cursor: no-drop;
+}
+.check-item.active > label > div > svg.checked {
+    display: block;
+}
+.check-item.active > label > div >svg.unchecked {
+    display: none;
+}
+.check-item > label > div > svg.checked {
+    display: none;
+}
+.check-item > label > div > svg.unchecked {
+    display: block;
+}
